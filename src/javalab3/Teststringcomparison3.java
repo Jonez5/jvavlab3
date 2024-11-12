@@ -1,3 +1,4 @@
+package javalab3;
 
 public class Teststringcomparison3 {
    public static void main(String args[]){
